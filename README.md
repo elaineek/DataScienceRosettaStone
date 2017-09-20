@@ -1,1 +1,1 @@
-# DataScienceRosettaStone
+# Data Science Rosetta Stone
